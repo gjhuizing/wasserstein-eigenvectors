@@ -1,2 +1,1 @@
-# wasserstein-eigenvectors
-Numerical experiments for Wasserstein Eigenvectors
+Numerical experiments on Wasserstein Eigenvectors
