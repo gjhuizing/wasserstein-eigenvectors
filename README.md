@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks to replicate the experiments from our
 - `1D_synthetic.ipynb`: Wasserstein Eigenvectors of synthetic datasets of translated histograms on the 1D torus. Figures 1 and 3 of the paper.
 - `2D_synthetic.ipynb`: Wasserstein Eigenvectors of synthetic datasets of translated histograms on the 2D torus. Figure 2 of the paper.
 - `MNIST.ipynb`: Wasserstein Singular Vectors of a subset of the MNIST dataset (see Sample Data). Figures 5 and 6 of the paper.
-- `scRNA_seq.ipynb`: Wasserstein Singular Vectors of a single-cell RNA-seq dataset (see Sample Data). Figures 7, 8 and 9 of the paper.
+- `scRNA_seq.ipynb`: Wasserstein Singular Vectors with entropic regularization of a single-cell RNA-seq dataset (see Sample Data). Figures 7, 8 and 9 of the paper.
 
 ## Sample Data
 
