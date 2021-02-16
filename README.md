@@ -1,6 +1,6 @@
 # Numerical experiments on Wasserstein Eigenvectors
 
-This repository contains Jupyter notebooks to replicate the experiments from our paper "Unsupervised Ground Metric Learning Using Wasserstein Eigenvectors" (Huizing, Cantini, Peyré 2021). The preprint will be available soon on arXiv.
+This repository contains Jupyter notebooks to replicate the experiments from our paper "Unsupervised Ground Metric Learning Using Wasserstein Eigenvectors" (Huizing, Cantini, Peyré 2021). https://arxiv.org/abs/2102.06278
 
 ## Notebooks
 
