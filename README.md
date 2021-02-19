@@ -2,6 +2,17 @@
 
 This repository contains Jupyter notebooks to replicate the experiments from our paper "Unsupervised Ground Metric Learning Using Wasserstein Eigenvectors" (Huizing, Cantini, Peyré 2021). https://arxiv.org/abs/2102.06278
 
+Cite as 
+
+    @misc{huizing2021unsupervised,
+          title={Unsupervised Ground Metric Learning using Wasserstein Eigenvectors}, 
+          author={Geert-Jan Huizing and Laura Cantini and Gabriel Peyré},
+          year={2021},
+          eprint={2102.06278},
+          archivePrefix={arXiv},
+          primaryClass={stat.ML}
+    }
+
 ## Notebooks
 
 - `1D_synthetic.ipynb`: Wasserstein Eigenvectors of synthetic datasets of translated histograms on the 1D torus. Figures 1 and 3 of the paper.
